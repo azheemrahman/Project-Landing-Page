@@ -1,0 +1,50 @@
+.header {
+    background-color: #1f2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 10px;
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.left-title {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.second-title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.third {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.fourth-left {
+    background-color: #3882F6;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+.footer {
+    background-color: #1f2937;
+}
